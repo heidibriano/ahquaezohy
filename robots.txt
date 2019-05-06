@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://oneiniecau.gnubee.org/sitemap.xml
